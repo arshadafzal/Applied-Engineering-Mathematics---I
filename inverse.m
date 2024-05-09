@@ -1,6 +1,6 @@
 function Ainv = inverse(A)
 % Program to find Inverse of a Matrix A using  LU decomposition 
-% Method for LU decomposition are Dolittle's Algorithm
+% Method for LU decomposition is Dolittle's Algorithm
 
 
 [m,n] = size(A);
