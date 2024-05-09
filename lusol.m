@@ -4,8 +4,7 @@ function [L, U, x] = lusol(A,b)
 % [L, U, x] = lusolve(A,b) attempts to solve the system A*x = B with the 
 % LU Factorization, forward and backward substitution.
 
-% Author: Arshad Afzal, Assistant Professor, GIST, South Korea
-% For Education purpose only
+% Author: Arshad Afzal, GIST, South Korea
 
 n = size(A,1);
 P = eye(n);
