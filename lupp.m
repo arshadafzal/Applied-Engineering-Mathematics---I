@@ -1,7 +1,6 @@
 function [P,L, U] = lupp(A)
 % LU decomposition of Matrix A using Gaussian Elimination
 % AND Partial pivoting
-% For Education purpose only
 
 n = size(A,1);
 P = eye(n);
