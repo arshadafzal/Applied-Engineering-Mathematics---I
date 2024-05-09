@@ -3,8 +3,7 @@ function x = gauselim(A,b)
 % x = gauselim(A,b) attempts to solve the system A*x = B with the 
 % GAUSS - ELIMINATION method.
 
-% Author: Arshad Afzal, Assistant Professor, GIST, South Korea
-% For Education purpose only
+% Author: Arshad Afzal, GIST, South Korea
 
 
 [m,n] = size(A);
