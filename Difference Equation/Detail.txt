@@ -1,1 +1,1 @@
-This Folder contains files to solving difference equation.
+This Folder contains files to solve difference equation.
